@@ -5,3 +5,4 @@ using pandas<br/>
 using numpy<br/>
 using skimage<br/>
 using sklearn<br/>
+###Making N Colored Image with Image Clustering
