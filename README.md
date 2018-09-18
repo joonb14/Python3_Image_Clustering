@@ -9,5 +9,5 @@ using sklearn<br/>
 
 ### Making N Colored Image with Image Clustering And Recoloring (if want)
 <b>Screenshots<br/>
-<img width="400" src="https://user-images.githubusercontent.com/30307587/45668428-aa638d80-bb57-11e8-96ad-5708a8220ebd.png">
-<img width="200" src="https://user-images.githubusercontent.com/30307587/45668483-db43c280-bb57-11e8-9d62-784a60006fe1.png">
+<img width="40%" src="https://user-images.githubusercontent.com/30307587/45668428-aa638d80-bb57-11e8-96ad-5708a8220ebd.png">
+<img width="20%" src="https://user-images.githubusercontent.com/30307587/45668483-db43c280-bb57-11e8-9d62-784a60006fe1.png">
