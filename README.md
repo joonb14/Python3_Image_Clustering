@@ -6,4 +6,4 @@ using numpy<br/>
 using skimage<br/>
 using sklearn<br/>
 
-###Making N Colored Image with Image Clustering
+### Making N Colored Image with Image Clustering
